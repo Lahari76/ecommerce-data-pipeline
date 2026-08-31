@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific local files
+airflow_venv/
+airflow/
+.DS_Store
+
+# Spark generated output
+data/spark_processed/
